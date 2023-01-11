@@ -1,3 +1,3 @@
 print("hello world")
-print("second line")
+print("lets accept the conflict")
 print("third line")
